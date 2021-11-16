@@ -26,6 +26,10 @@ as c,
 from Americans, Vietnamese, Canadians, 
 Irish, Singapore, Mafia, 
 Cartel and Vandalism.
-The rappaport we will be removing that is vandalism is
-how c is used to teach and make people move. So we can
-relax and read.
+The rappaport we will be removing, that is 
+vandalism, is how c is used to teach and 
+make people move. So we can relax and read.
+You can almost consider it UNDERCASE c, which
+is a c version during the typing of c code.
+For c coding purposes only. I like that. 
+Still, a single contributor, though.
